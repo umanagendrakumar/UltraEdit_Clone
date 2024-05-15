@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/ultraedit.html"
+status = 200
